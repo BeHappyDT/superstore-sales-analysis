@@ -20,7 +20,7 @@ Completed ✅
 
 ## Dashboard
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/dashboard.png.jpg)
 
 ## Business Questions
 
