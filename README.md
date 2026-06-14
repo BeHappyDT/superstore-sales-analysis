@@ -30,15 +30,17 @@ Completed ✅
 - Are there regions or categories operating at a loss?
 - How do discounts impact profitability?
 
-- Technology category generates the highest revenue
+## Key Findings
 
+- Technology category generates the highest revenue
 - West region generated the highest sales (~0.73M)
 - South region showed the weakest performance (~0.39M)
-- Technology is the leading category in top-performing regions
 - Discounts negatively impact profit margins, especially in low-performing regions
 
 ## Dataset
 Superstore dataset (sample retail data)
+
+The project uses a sample Superstore retail dataset for educational portfolio purposes.
 
 ## What I learned
 - How to structure analysis from business questions
