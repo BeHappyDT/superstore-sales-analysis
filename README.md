@@ -39,7 +39,7 @@ The analysis was designed to answer the following questions:
 
 ## Dashboard
 
-![Superstore Sales Dashboard](images/dashboard.png)
+![Superstore Sales Dashboard](images/dashboard.jpg)
 
 ## Key Findings
 
